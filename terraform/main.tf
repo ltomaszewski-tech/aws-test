@@ -1,6 +1,6 @@
 provider "aws" {
 access_key = "AKIAVEKPJCD7T4SK7FUP"
-secret_key = ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+secret_key = "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"
 region = "eu-central-1"
 
 }
